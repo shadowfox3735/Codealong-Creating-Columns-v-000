@@ -131,7 +131,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #fff;
+  background: #fff;
   z-index: 1;
 }
 
@@ -154,5 +154,5 @@ section {
   display: block;
   width: 40px;
   height: 40px;
-  background-color: yellow;
+  background: yellow;
 }
